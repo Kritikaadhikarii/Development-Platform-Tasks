@@ -1,5 +1,6 @@
 body{
     width: 100%;
+    margin:0;
 }
 
 one{
@@ -101,8 +102,7 @@ nav li {
   position: relative;
   width: 1441px;
   height: 790px;
-  left: 0;
-  top: 358px;
+  top: 352px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -398,13 +398,14 @@ nav li {
 }
   
 .footer {
-  background-color: black;
+  background-color: rgb(17,17,17);
   color: white;
   position: absolute;
-  width: 1440px;
+  width: 1420px;
   height: 469px;
   left: 1px;
   top: 2889px;
+  padding:0;
 }
   
 .footer {
